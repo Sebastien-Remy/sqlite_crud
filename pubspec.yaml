@@ -13,9 +13,8 @@ dependencies:
 
   cupertino_icons: ^1.0.2
 
-  # Needed for SQLite use
-  sqflite: ^2.0.0+3
-  path_provider: ^2.0.1
+  sqflite: ^2.0.0+3 # Needed for SQLite use
+  path_provider: ^2.0.1 # Needed to retrieve database file on device
 
 dev_dependencies:
   flutter_test:
